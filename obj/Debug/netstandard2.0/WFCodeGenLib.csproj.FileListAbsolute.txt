@@ -1,0 +1,10 @@
+C:\prog\Wamfish\WFCodeGenLib\bin\Debug\netstandard2.0\WFCodeGenLib.deps.json
+C:\prog\Wamfish\WFCodeGenLib\bin\Debug\netstandard2.0\WFCodeGenLib.dll
+C:\prog\Wamfish\WFCodeGenLib\bin\Debug\netstandard2.0\WFCodeGenLib.pdb
+C:\prog\Wamfish\WFCodeGenLib\obj\Debug\netstandard2.0\WFCodeGenLib.csproj.AssemblyReference.cache
+C:\prog\Wamfish\WFCodeGenLib\obj\Debug\netstandard2.0\WFCodeGenLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog\Wamfish\WFCodeGenLib\obj\Debug\netstandard2.0\WFCodeGenLib.AssemblyInfoInputs.cache
+C:\prog\Wamfish\WFCodeGenLib\obj\Debug\netstandard2.0\WFCodeGenLib.AssemblyInfo.cs
+C:\prog\Wamfish\WFCodeGenLib\obj\Debug\netstandard2.0\WFCodeGenLib.csproj.CoreCompileInputs.cache
+C:\prog\Wamfish\WFCodeGenLib\obj\Debug\netstandard2.0\WFCodeGenLib.dll
+C:\prog\Wamfish\WFCodeGenLib\obj\Debug\netstandard2.0\WFCodeGenLib.pdb

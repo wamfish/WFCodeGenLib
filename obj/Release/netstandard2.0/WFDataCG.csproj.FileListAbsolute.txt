@@ -1,0 +1,10 @@
+C:\prog\Wamfish\WFDataCG\bin\Release\netstandard2.0\WFDataCG.deps.json
+C:\prog\Wamfish\WFDataCG\bin\Release\netstandard2.0\WFDataCG.dll
+C:\prog\Wamfish\WFDataCG\bin\Release\netstandard2.0\WFDataCG.pdb
+C:\prog\Wamfish\WFDataCG\obj\Release\netstandard2.0\WFDataCG.csproj.AssemblyReference.cache
+C:\prog\Wamfish\WFDataCG\obj\Release\netstandard2.0\WFDataCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog\Wamfish\WFDataCG\obj\Release\netstandard2.0\WFDataCG.AssemblyInfoInputs.cache
+C:\prog\Wamfish\WFDataCG\obj\Release\netstandard2.0\WFDataCG.AssemblyInfo.cs
+C:\prog\Wamfish\WFDataCG\obj\Release\netstandard2.0\WFDataCG.csproj.CoreCompileInputs.cache
+C:\prog\Wamfish\WFDataCG\obj\Release\netstandard2.0\WFDataCG.dll
+C:\prog\Wamfish\WFDataCG\obj\Release\netstandard2.0\WFDataCG.pdb

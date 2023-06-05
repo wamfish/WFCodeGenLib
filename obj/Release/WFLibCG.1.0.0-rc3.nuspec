@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>WFLibCG</id>
+    <version>1.0.0-rc3</version>
+    <authors>WFLibCG</authors>
+    <description>Package Description</description>
+  </metadata>
+  <files>
+    <file src="C:\prog\Wamfish\WFLibCG\bin\Release\netstandard2.0\WFLibCG.dll" target="analyzers\dotnet\cs\WFLibCG.dll" />
+  </files>
+</package>
