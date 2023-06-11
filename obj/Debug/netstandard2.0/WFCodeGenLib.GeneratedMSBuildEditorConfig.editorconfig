@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = true
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WFCodeGenLib
-build_property.ProjectDir = C:\prog\Wamfish\WFCodeGenLib\
+build_property.ProjectDir = c:\prog\Wamfish\WFCodeGenLib\

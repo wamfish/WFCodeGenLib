@@ -243,19 +243,6 @@ namespace WFCodeGenLib
             cw.append = " };";
             cw.line = "";
 
-            //cw.line = "static Func<int,bool>[] ValidationFuncs =";
-            //cw.line = "{";
-            //for (int i = 0; i < fields.Count; i++)
-            //{
-            //    //var f = fields[i];
-            //    cw.line = $"(field)=>{{return true;}},";
-            //}
-            //cw.line = "};";
-            //cw.line = "";
-
-
-
-
             cw.line = "static string[] FieldLabels =";
             cw.line = "{";
             for (int i = 0; i < fields.Count; i++)
@@ -308,6 +295,14 @@ namespace WFCodeGenLib
             //public abstract ValidationFunc[] StaticValidationFuncs { get; }
             cw.line = $"static List<ValidationFunc>[] ValidationFuncs = new List<ValidationFunc>[{fields.Count}];";
             cw.line = @"public override List<ValidationFunc>[] StaticValidationFuncs => ValidationFuncs;";
+
+
+            //static Func<Data, string>[] HtmlHelpers = new Func<Data, string>[15];
+            cw.line = $"static Func<Data,string>[] HtmlHelpers = new Func<Data,string>[{fields.Count}];";
+            //public abstract Func<Data, string>[] StaticHtmlHelpers { get; }
+            cw.line = @"public override Func<Data,string>[] StaticHtmlHelpers => HtmlHelpers;";
+
+
 
             //cw.line = "IEditHelper[] EditHelpers =";
             //cw.line = "{";
